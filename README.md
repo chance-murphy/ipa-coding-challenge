@@ -1,4 +1,4 @@
-# coding-challenge-2
+# IPA Coding Challenge
 
 ## Build Setup
 
