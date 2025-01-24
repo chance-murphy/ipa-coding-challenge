@@ -1,6 +1,7 @@
 <template>
   <div>
-    IPA Coding Challenge
+    <NuxtLogo />
+    <p>IPA Coding Challenge</p>
   </div>
 </template>
 

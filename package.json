@@ -12,6 +12,8 @@
   "dependencies": {
     "core-js": "^3.25.3",
     "nuxt": "^2.15.8",
+    "sass": "^1.32.12",
+    "sass-loader": "^10",
     "vue": "^2.7.10",
     "vue-server-renderer": "^2.7.10",
     "vue-template-compiler": "^2.7.10"
